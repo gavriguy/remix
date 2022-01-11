@@ -1,6 +1,5 @@
 import * as React from 'react';
 import type { MetaFunction } from 'remix';
-import { Link } from 'remix';
 import Typography from '@mui/material/Typography';
 
 export const meta: MetaFunction = () => {
